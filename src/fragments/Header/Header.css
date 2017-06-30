@@ -85,7 +85,7 @@
   letter-spacing: -0.5px;
   border: none;
   &:hover {
-    color: #ffd734; /* Default is white. */
+    color: #ffd734 !important; /* Default is white. */
     background: 0 0;
   }
 
